@@ -28,16 +28,26 @@ A full-stack music platform for search and subscription, developed using React, 
 A Myki transport card simulation project using SQL Server.<br>
 → Implements stored procedures, TouchOn logic, partitioning, and indexing.
 
-### [Online Bookstore](https://github.com/jordan0726/MyProject/tree/master/Online Bookstore) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="20" alt="flask" title="flask"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python" title="python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" alt="HTML" title="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" alt="CSS" title="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="20" alt="sqlite" title="sqlite"/>
+### [Online Bookstore](https://github.com/jordan0726/MyProject/tree/master/OnlineBookstore) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="20" alt="flask" title="flask"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python" title="python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" alt="HTML" title="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" alt="CSS" title="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="20" alt="sqlite" title="sqlite"/>
 A web app to manage book reservations with secure login and admin controls<br>→ Features includes password reset, SSL support, and responsive UI.
 
-### [The Reading Room](https://github.com/jordan0726/MyProject/tree/master/The Reading Room) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" alt="java" title="java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="20" alt="sqlite" title="sqlite"/>
+### [The Reading Room](https://github.com/jordan0726/MyProject/tree/master/TheReadingRoom) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" alt="java" title="java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="20" alt="sqlite" title="sqlite"/>
 A JavaFX desktop bookstore built using Java, JDBC, and SQLite.<br>→ Features include cart management, credit card validation, and CSV order export.
 
-### [Pharmacy CLI System](https://github.com/jordan0726/MyProject/tree/master/Pharmacy CLI System) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python" title="python"/>
+### [Pharmacy CLI System](https://github.com/jordan0726/MyProject/tree/master/PharmacyCLISystem) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python" title="python"/>
 A CLI-based pharmacy system built with Python OOP and file storage.<br>→ Supports customer management, reward tracking, and purchase history export.
 
-### [Library Report System](https://github.com/jordan0726/MyProject/tree/master/Library Report Syste) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python" title="python"/>
+### [Library Report System](https://github.com/jordan0726/MyProject/tree/master/LibraryReportSystem) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python" title="python"/>
 A report generator that processes library records using OOP.<br>→ Categorizes books/members, calculates fees, and outputs to timestamped file.
+
+## 📬 Contact Me
+
+- 💌 Email: [jungdechiou@gmail.com](mailto:jungdechiou@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/jordanchiou](https://linkedin.com/in/jordanchiou)  
+- 🌍 Portfolio: (currently in the works... stay tuned!)
+
+---
+
+Thanks for stopping by — feel free to connect or say hi! 🙌
 
 
