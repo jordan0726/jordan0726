@@ -43,6 +43,11 @@ A CLI-based pharmacy system built with Python OOP and file storage.<br>→ Suppo
 ### [Library Report System](https://github.com/jordan0726/MyProject/tree/master/LibraryReportSystem) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python" title="python"/>
 A report generator that processes library records using OOP.<br>→ Categorizes books/members, calculates fees, and outputs to timestamped file.
 
+## 📜 Certifications
+
+- 🏆 [**AWS Certified Cloud Practitioner – Foundational**](https://www.credly.com/badges/6c9bf933-0799-45e7-a04c-8eb376fbc6cd/linked_in_profile) 
+  Issued: Jan 2025
+
 ## 📬 Contact Me
 
 - 💌 Email: [jungdechiou@gmail.com](mailto:jungdechiou@gmail.com)  
