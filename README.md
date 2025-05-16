@@ -18,7 +18,10 @@ Feel free to take a look around — I'd love to hear your thoughts and connect!�
 - 🛢️ Databases: SQLite, Microsoft SQL Server, MongoDB  
 - 🎨 Design: Figma, Adobe Illustrator (AI)
 
-## My projects!
+## 🚧 My Projects!
+
+Project details are still being organized and built...  
+Stay tuned for more updates and cool stuff coming soon! 😄 - (16/05/2025)
 
 ### [MyMusicList](https://github.com/jordan0726/MyProject/blob/master/CloudComputing/MusicList/README.md) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="React" title="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="JavaScript" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="Python" title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="20" alt="Linux" title="Linux"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="20" alt="FastAPI" title="FastAPI"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="20" alt="Shell Script" title="Shell Script"/> <img src="images/32px-Amazon_Web_Services_Logo.svg.png" height="20" alt="AWS" title="AWS"/>
 A full-stack music platform for search and subscription, developed using React, FastAPI, and AWS.  
