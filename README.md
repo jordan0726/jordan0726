@@ -16,12 +16,12 @@ Feel free to take a look around — I'd love to hear your thoughts and connect!�
 - 🌐 Web: HTML5, CSS3, React, FastAPI  
 - ☁️ Cloud: AWS (EC2, S3, Lambda, DynamoDB)  
 - 🛢️ Databases: SQLite, Microsoft SQL Server, MongoDB  
-- 🎨 Design: Figma, Adobe Illustrator (AI)
+- 🎨 Design: [Figma, Adobe Illustrator (AI)](#ui-design-projects)
 
 ## 🚧 My Projects!
 
 Project details are still being organized and built...  
-Stay tuned for more updates and cool stuff coming soon! 😄 - (16/05/2025)
+Stay tuned for more updates and cool stuff coming soon! 😄 - (18/07/2025)
 
 ### [MyMusicList](https://github.com/jordan0726/MyProject/blob/master/CloudComputing/MusicList/README.md) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="React" title="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="JavaScript" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="Python" title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="20" alt="Linux" title="Linux"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="20" alt="FastAPI" title="FastAPI"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="20" alt="Shell Script" title="Shell Script"/> <img src="images/32px-Amazon_Web_Services_Logo.svg.png" height="20" alt="AWS" title="AWS"/>
 A full-stack music platform for search and subscription, developed using React, FastAPI, and AWS.  
@@ -48,11 +48,29 @@ A report generator that processes library records using OOP.<br>→ Categorizes 
 - 🏆 [**AWS Certified Cloud Practitioner – Foundational**](https://www.credly.com/badges/6c9bf933-0799-45e7-a04c-8eb376fbc6cd/linked_in_profile) 
   Issued: Jan 2025
 
+## 🎨 UI Design Projects
+
+### [2023 F2E Round 1 UI Design Competition – F2E Competition Homepage](https://www.figma.com/design/eov3MtrljKvUPt2n6ANrOe/The-F2E-%E6%B4%BB%E5%8B%95%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88?node-id=93-881&t=xnyagjiC9fD4Rsur-1)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="20" alt="Figma" title="Figma"/>
+Sep 2023 – Oct 2023  
+This was my first UI design project, creating a one-page responsive website (RWD-friendly) for the competition homepage.  
+The design adopts a pixel-art style combined with video game-inspired elements to creatively present key competition information.  
+The interactive prototype in Figma demonstrates the intended visual effects and user experience.
+
+---
+
+### [2023 F2E Round 3 UI Design Competition – “Scrum Beginner’s Village”](https://www.figma.com/design/kbtC7fpZWSjEAzeJmnsVO2/Scrum-%E6%96%B0%E6%89%8B%E6%9D%91?node-id=0-1&t=gKAXCQ8j5kZCg8lY-1)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="20" alt="Figma" title="Figma"/>
+Oct 2023  
+Designed a web-based UI within one week to introduce the fundamental concepts of Scrum, focusing on intuitive layout and interactive design to enhance user understanding.  
+The design was handed over to front-end developers for implementation, with my role dedicated to UI and interaction design.
+
+
 ## 📬 Contact Me
 
-- 💌 Email: [jungdechiou@gmail.com](mailto:jungdechiou@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/jordanchiou](https://linkedin.com/in/jordanchiou)  
-- 🌍 Portfolio: (currently in the works... stay tuned!)
+- Email: [jungdechiou@gmail.com](mailto:jungdechiou@gmail.com)  
+- LinkedIn: [linkedin.com/in/jordanchiou](https://linkedin.com/in/jordanchiou)  
+- My website: (currently in the works... stay tuned!)
 
 ---
 
