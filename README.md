@@ -43,6 +43,9 @@ A CLI-based pharmacy system built with Python OOP and file storage.<br>→ Suppo
 ### [Library Report System](https://github.com/jordan0726/MyProject/tree/master/LibraryReportSystem) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python" title="python"/>
 A report generator that processes library records using OOP.<br>→ Categorizes books/members, calculates fees, and outputs to timestamped file.
 
+### [Hexagon Western Restaurant (2021) – Responsive Web Design Practice](https://github.com/jordan0726/Homework) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" alt="HTML5" title="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" alt="CSS3" title="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pure/pure-original.svg" height="20" alt="PureCSS" title="PureCSS"/>
+A responsive web design project for a fictional American burger restaurant, focusing on building a modern website with **HTML5** and **CSS3**.  
+
 ## 📜 Certifications
 
 - 🏆 [**AWS Certified Cloud Practitioner – Foundational**](https://www.credly.com/badges/6c9bf933-0799-45e7-a04c-8eb376fbc6cd/linked_in_profile) 
