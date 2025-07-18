@@ -16,7 +16,7 @@ Feel free to take a look around — I'd love to hear your thoughts and connect!�
 - 🌐 Web: HTML5, CSS3, React, FastAPI  
 - ☁️ Cloud: AWS (EC2, S3, Lambda, DynamoDB)  
 - 🛢️ Databases: SQLite, Microsoft SQL Server, MongoDB  
-- 🎨 Design: [Figma, Adobe Illustrator (AI)](#ui-design-projects)
+- 🎨 Design: [Figma, Adobe Illustrator (AI)](#-ui-design-projects)
 
 ## 🚧 My Projects!
 
