@@ -43,8 +43,12 @@ A CLI-based pharmacy system built with Python OOP and file storage.<br>→ Suppo
 ### [Library Report System](https://github.com/jordan0726/MyProject/tree/master/LibraryReportSystem) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python" title="python"/>
 A report generator that processes library records using OOP.<br>→ Categorizes books/members, calculates fees, and outputs to timestamped file.
 
-### [Hexagon Western Restaurant (2021) – Responsive Web Design Practice](https://github.com/jordan0726/MyProject/tree/master/Self-taughtFrontendPractice/RWD%20practice#hexagon-western-restaurant-) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" alt="HTML5" title="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" alt="CSS3" title="CSS3"/>
-A responsive web design project for a fictional American burger restaurant, focusing on building a modern website with **HTML5** and **CSS3**.  
+### [D'Perfume – Responsive E-commerce Practice (2021) &](https://github.com/jordan0726/MyProject/tree/master/Self-taughtFrontendPractice/Perfume%20e-commerce%20website#dperfume--responsive-e-commerce-website) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" alt="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" alt="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="20" alt="jQuery"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="20" alt="SCSS"/>
+### [Hexagon Western Restaurant – Responsive E-commerce Practice (2021)](https://github.com/jordan0726/MyProject/tree/master/Self-taughtFrontendPractice/RWD%20practice#hexagon-western-restaurant-) 
+
+
+Modern e-commerce sites built for front-end practice using **HTML5**, **CSS3**, **SCSS**, and **jQuery**.  
+Features a multi-page layout, responsive (RWD) design, product showcases, and interactive UI.  
 
 ## 📜 Certifications
 
