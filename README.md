@@ -29,6 +29,15 @@ An **AI-powered full-stack receipt categorisation app**, developed in collaborat
 → Over **90%** of the cloud infrastructure—excluding Cognito—is provisioned using **AWS CDK** to achieve full **Infrastructure as Code (IaC)**.  
 → Implements automated testing (**Jest**, **Cypress**) with **95% coverage** and **95.4% categorisation accuracy**.  
 → Presented at **RMIT End-of-Year Showcase 2025** for outstanding technical achievement.  
+
+### [Swapify](https://github.com/jordan0726) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="20" alt="Swift" title="Swift"/><img src="https://img.shields.io/badge/SwiftUI-0052CC?logo=swift&logoColor=white" height="20" alt="SwiftUI" title="SwiftUI"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="20" alt="Firebase" title="Firebase"/> <img src="https://cdn.simpleicons.org/apple/000000" height="20" alt="iOS" title="iOS"/>
+> ⚠️ **Note:** This project is still under development; source code is not publicly available at this moment. 
+
+A **native iOS mobile app** providing a safe and engaging platform for users to **match and exchange skills**.  
+→ Built entirely with **Swift** and **SwiftUI**, following MVVM architecture and Apple’s Human Interface Guidelines.  
+→ Integrated **Google Firebase** for user authentication, real-time data synchronisation, and media storage.  
+→ Designed a modern, intuitive UI that supports secure skill-matching and communication between users.  
+
   
   ### [MyMusicList](https://github.com/jordan0726/MyProject/blob/master/CloudComputing/MusicList/README.md) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="React" title="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="JavaScript" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="Python" title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="20" alt="Linux" title="Linux"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="20" alt="FastAPI" title="FastAPI"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="20" alt="Shell Script" title="Shell Script"/> <img src="images/32px-Amazon_Web_Services_Logo.svg.png" height="20" alt="AWS" title="AWS"/>
   A full-stack music platform for search and subscription, developed using React, FastAPI, and AWS.  
