@@ -1,10 +1,28 @@
   <img src="images/banner1.png" width="100%" alt="Banner" />
   
   
-  ## Hello world 👋 I’m Jordan
-  Currently a full-time Master of IT student at RMIT in Melbourne 🎓 
-  This is my little corner where I document what I build, explore new technologies, and practice hands-on skills.  
-  Feel free to take a look around — I'd love to hear your thoughts and connect!✨ 
+## Hello world 👋 I’m Jordan
+
+**IT Professional | Master of IT Graduate from RMIT** 🎓  
+From Taiwan 🇹🇼 Based in Australia 🇦🇺
+
+I am a passionate **Frontend Developer** and **Cloud enthusiast** with a Master’s degree from **RMIT University**. My journey is driven by a love for building scalable full-stack applications and architecting cloud solutions. 
+
+Currently, I am **actively seeking Graduate, Junior, or Internship opportunities** where I can contribute my technical skills in **Full-stack Development** or **Cloud Environment** to impactful projects.
+
+---
+
+### 🎯 What I'm working on
+Lately, I've discovered a deep interest in the **Hardware** side of technology—there's something uniquely rewarding about understanding the physical foundations of computing. To broaden my expertise across the entire IT spectrum, I am currently:
+
+* 🛡️ Preparing for **CompTIA A+** to solidifying my hardware and troubleshooting skills.
+* 📚 Studying for **ITIL 4 Foundation** to master IT Service Management (ITSM) best practices.
+* 🛠️ Exploring the intersection of hardware efficiency and software performance.
+
+---
+
+This is my digital corner where I document my builds, explore emerging technologies, and share my hands-on journey.  
+**I'm open to collaborations and new opportunities—let’s connect!** ✨
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordanchiou/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jungdechiou@gmail.com)
@@ -12,34 +30,32 @@
   
   ## 🧰 Tech Stack & Tools
   
-  - 💻 Languages: Python, JavaScript, SQL, Java, Bash (shell scripting)
-  - 🌐 Web: HTML5, CSS3, React, FastAPI  
-  - ☁️ Cloud: AWS (EC2, S3, Lambda, DynamoDB)  
+  - 💻 Languages: Python, SQL, Java, Bash (shell scripting), Swift
+  - 🌐 Web: TypeScript, Javascript, HTML5, CSS3, React, FastAPI  
+  - ☁️ Cloud: AWS (Bedrock, Rekognition, Textract, S3+Cloudfront, Lambda, DynamoDB...)  
   - 🛢️ Databases: SQLite, Microsoft SQL Server, MongoDB  
-  - 🎨 Design: [Figma, Adobe Illustrator (AI)](#-ui-design-projects)
+  - 🎨 Design: Figma, Adobe Illustrator (Ai)
   
   ## 🚧 My Projects!
 
-### [ReceiptCat](https://github.com/jordan0726) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="React" title="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" alt="TypeScript" title="TypeScript"/> <img src="images/32px-Amazon_Web_Services_Logo.svg.png" height="20" alt="AWS" title="AWS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="20" alt="Jest" title="Jest"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-plain.svg" height="20" alt="Cypress" title="Cypress"/> <img src="https://cdn.simpleicons.org/trello/0052CC" height="20" alt="Trello" title="Trello"/>
-> ⚠️ **Note:** This project is still under active development; source code is not publicly available at this time. 
+### [ReceiptCat](https://github.com/jordan0726) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" alt="TypeScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="25" alt="AWS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="25" alt="Jest"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-plain.svg" height="25" alt="Cypress"/> <img src="https://cdn.simpleicons.org/trello/0052CC" height="20" alt="Trello" title="Trello"/>
+> **AI-powered full-stack receipt categorisation app** > *Developed in collaboration with **Shine Solutions Group** | RMIT End-of-Year Showcase 2025*
 
-An **AI-powered full-stack receipt categorisation app**, developed in collaboration with **Shine Solutions**.  
-→ Built with **Next.js (React)** and **TypeScript** for both frontend and backend.  
-→ Utilises **AWS services** including **Bedrock**, **Textract**, **CodePipeline**, **CodeBuild**, **S3 + CloudFront**, **Cognito**, **SNS**, **DynamoDB**, and **Lambda**.  
-→ Over **90%** of the cloud infrastructure—excluding Cognito—is provisioned using **AWS CDK** to achieve full **Infrastructure as Code (IaC)**.  
-→ Implements automated testing (**Jest**, **Cypress**) with **95% coverage** and **95.4% categorisation accuracy**.  
-→ Presented at **RMIT End-of-Year Showcase 2025** for outstanding technical achievement.  
+* **Core Logic:** Built with **Next.js** and **TypeScript** for a seamless full-stack experience.
+* **AI & Cloud:** Integrated **AWS Bedrock** and **Textract** for intelligent OCR and data extraction.
+* **Infrastructure:** 90%+ provisioned via **AWS CDK (Infrastructure as Code)**, including CodePipeline, S3/CloudFront, and Lambda.
+* **Quality Assurance:** Achieved **95% test coverage** (Jest/Cypress) and **95.4% categorization accuracy**. 
 
-### [Swapify](https://github.com/jordan0726) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="20" alt="Swift" title="Swift"/><img src="https://img.shields.io/badge/SwiftUI-0052CC?logo=swift&logoColor=white" height="20" alt="SwiftUI" title="SwiftUI"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="20" alt="Firebase" title="Firebase"/> <img src="https://cdn.simpleicons.org/apple/000000" height="20" alt="iOS" title="iOS"/>
-> ⚠️ **Note:** This project is still under development; source code is not publicly available at this moment. 
 
-A **native iOS mobile app** providing a safe and engaging platform for users to **match and exchange skills**.  
-→ Built entirely with **Swift** and **SwiftUI**, following MVVM architecture and Apple’s Human Interface Guidelines.  
-→ Integrated **Google Firebase** for user authentication, real-time data synchronisation, and media storage.  
-→ Designed a modern, intuitive UI that supports secure skill-matching and communication between users.  
+### [Swapify](https://github.com/jordan0726)<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="25" alt="Swift"/> <img src="https://img.shields.io/badge/SwiftUI-0052CC?style=flat&logo=swift&logoColor=white" height="25" alt="SwiftUI"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="25" alt="Firebase"/> <img src="https://cdn.simpleicons.org/apple/000000" height="25" alt="iOS"/>
+**Native iOS platform for skill-matching and exchange**
 
-  
-  ### [MyMusicList](https://github.com/jordan0726/MyProject/blob/master/CloudComputing/MusicList/README.md) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="React" title="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="JavaScript" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="Python" title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="20" alt="Linux" title="Linux"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="20" alt="FastAPI" title="FastAPI"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="20" alt="Shell Script" title="Shell Script"/> <img src="images/32px-Amazon_Web_Services_Logo.svg.png" height="20" alt="AWS" title="AWS"/>
+* **Architecture:** Developed with **Swift** and **SwiftUI** following the **MVVM** pattern.
+* **Backend:** Utilised **Firebase** for Authentication, Firestore (Real-time DB), and Cloud Storage.
+* **Design:** Followed **Apple’s Human Interface Guidelines** to deliver a modern, intuitive UI.
+* *Note: Repository setup in progress.*
+
+### [MyMusicList](https://github.com/jordan0726/MyProject/blob/master/CloudComputing/MusicList/README.md) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="React" title="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="JavaScript" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="Python" title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="20" alt="Linux" title="Linux"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="20" alt="FastAPI" title="FastAPI"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="20" alt="Shell Script" title="Shell Script"/> <img src="images/32px-Amazon_Web_Services_Logo.svg.png" height="20" alt="AWS" title="AWS"/>
   A full-stack music platform for search and subscription, developed using React, FastAPI, and AWS.  
   -> Features include user authentication, subscription handling, and real-time music querying.
   
